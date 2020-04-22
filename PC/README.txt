@@ -14,4 +14,4 @@
 #-->O app_fii retira as informações dos sites "meusdividendos.com" e "fii.com", se um desses sites não estiver funcionando, o app_fii
 #NÃO VAI FUNCIONAR
 #
-#
+#--> O app_fii foi projetado para funcionar apartir do desktop, salve o aplicativo lá, se você não o fizer, há o risco do app_fii NÃO FUNCIONAR
