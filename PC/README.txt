@@ -14,5 +14,4 @@
 #-->O app_fii retira as informações dos sites "meusdividendos.com" e "fii.com", se um desses sites não estiver funcionando, o app_fii
 #NÃO VAI FUNCIONAR
 #
-#O ícone do aplicativo pode ser encontrado nesse site
-Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+#
