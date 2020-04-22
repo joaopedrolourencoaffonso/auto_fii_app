@@ -2,16 +2,11 @@
 #Essa edição contém uma gui amigável ao usuário fácil de usar.
 #
 #OBSERVAÇÕES
-#Dentro do próprio auto_fii existe uma seção 'Instruções', portanto a única nota que vou fazer aqui é que, quando você ativar o #script #pela primeira vez, provavelmente vai notar 2 coisas:
-#1 - Uma tela negra que se abre atrás da gui
-#2 - A aparição de um arquivo chamado 'meus_fundos.txt' na pasta onde você salvou o app_fii
+#Dentro do próprio auto_fii existe uma seção 'Instruções', mesmo assim, gostaria de descrever os seguintes pontos do projeto:
+#1) Para registrar os seus fundos, o app_fii faz uso de um arquivo chamado "meus_fundos.txt", esse arquivo é um arquivo texto que vai
+#aparecer no seu desktop juntamente com o app_fii, NÃO o exclua ou você vai ter que registrar os fundos novamente!
 
-#Bem, quanto ao primeiro (1) item, não se preocupe, a janela fecha quando você fecha o app_fii, não é um problema.
-#Quanto ao segundo (2) item, esse arquivo é usado pelo app_fii para armazenar os nomes do seus fundos, se você deletar esse arquivo, o #app_fii vai continuar funcionando, mas você vai precisar registrar seus fundos novamente, no entanto, se você quiser editar o arquivo, #pode faze-lo a vontante, desde mantendo todos os nomes dos fundos numa só linha e separados por ";"
-
-#NOTA!NOTA!NOTA!NOTA!NOTA!NOTA!NOTA!NOTA!NOTA!NOTA!
-#
-#-->O app_fii retira as informações dos sites "meusdividendos.com" e "fii.com", se um desses sites não estiver funcionando, o app_fii
+#2) O app_fii retira as informações dos sites "meusdividendos.com" e "fii.com", se um desses sites não estiver funcionando, o app_fii
 #NÃO VAI FUNCIONAR
 #
-#--> O app_fii foi projetado para funcionar apartir do desktop, salve o aplicativo lá, se você não o fizer, há o risco do app_fii NÃO FUNCIONAR
+#3) O app_fii foi projetado para funcionar apartir do desktop, SALVE O APP_FII NO DESKTOP, se você não o fizer, há o risco do app_fii NÃO FUNCIONAR
