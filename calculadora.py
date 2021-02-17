@@ -14,7 +14,7 @@ def main():
     elif opcao == "2":
         x = float(input("Digite o angulo: "));
         y = 180*(math.asin(x)/math.pi);
-        print("O cos^(-1) de " + str(x) + " é: " + str(y));
+        print("O sen^(-1) de " + str(x) + " é: " + str(y));
 
 if __name__ == '__main__':
     main()
