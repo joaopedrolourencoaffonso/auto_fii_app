@@ -28,7 +28,7 @@ Para executar o código, você precisa fornecer três argumentos de linha de com
 
 Exemplo de uso:
 ```
-python script.py argumento1 argumento2 argumento3
+python auto_fii.py argumento1 argumento2 argumento3
 ```
 
 ### Limitações
